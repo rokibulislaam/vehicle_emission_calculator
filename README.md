@@ -6,6 +6,8 @@ An academic project (2nd sem) for CHE110 - Environmental Studies (LPU)
 
 Checkout the project report in [`Report`](./Report/) directory.
 
+Check the presentation at: https://1drv.ms/p/s!Aj9z0wTb5EgoiVXekveMi-1CT6Ey?e=7uckBi
+
 *It was mandatory to create a handwritten project report, pretty strange for a CSE student right? Well, my teammate handled the part 😉*
 
 ## Tech Stacks:
